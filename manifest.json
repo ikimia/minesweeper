@@ -1,0 +1,40 @@
+{
+  "name": "Minesweeper",
+  "icons": [
+    {
+      "src": "./favicons/favicon-196.png",
+      "type": "image/png",
+      "sizes": "196x196"
+    },
+    {
+      "src": "./favicons/favicon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "./favicons/favicon-180.png",
+      "type": "image/png",
+      "sizes": "180x180"
+    },
+    {
+      "src": "./favicons/favicon-128.png",
+      "type": "image/png",
+      "sizes": "128x128"
+    },
+    {
+      "src": "./favicons/favicon-120.png",
+      "type": "image/png",
+      "sizes": "120x120"
+    },
+    {
+      "src": "./favicons/favicon-32.png",
+      "type": "image/png",
+      "sizes": "32x32"
+    }
+  ],
+  "start_url": "./?source=pwa",
+  "background_color": "darkslategray",
+  "display": "standalone",
+  "theme_color": "darkslategray",
+  "description": "Clear all the mines"
+}
