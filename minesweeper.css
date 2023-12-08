@@ -28,6 +28,7 @@ body {
   width: var(--square-size);
   height: var(--square-size);
   background-color: lightslategray;
+  cursor: pointer;
   display: flex;
   align-items: center;
   justify-content: center;
